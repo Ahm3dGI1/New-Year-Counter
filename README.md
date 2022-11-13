@@ -1,3 +1,3 @@
 # New-Year-Counter
 
-![](counter.jpg)
+![](countdown.jpg)
